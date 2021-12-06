@@ -1,0 +1,7 @@
+C:\Users\adejo\Desktop\Artificial Intelligence Assignment\Main Assignment\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\adejo\Desktop\Artificial Intelligence Assignment\Main Assignment\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\adejo\Desktop\Artificial Intelligence Assignment\Main Assignment\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\adejo\Desktop\Artificial Intelligence Assignment\Main Assignment\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojAssemblyReference.cache
+C:\Users\adejo\Desktop\Artificial Intelligence Assignment\Main Assignment\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\adejo\Desktop\Artificial Intelligence Assignment\Main Assignment\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\adejo\Desktop\Artificial Intelligence Assignment\Main Assignment\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
